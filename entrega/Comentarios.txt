@@ -1,0 +1,11 @@
+Nombrar las carpetas en forma consistente. Img —> img
+
+Organicen el repositorio con carpetas. Por ejemplo, todos los HTML debieran ir en una carpeta llamada html, los estilos en una carpeta llamada styles, las imágenes en una carpeta llamada img.
+
+Pagina principal:
+
+Buen manejo del responsiveness.
+
+¿Qué significa el icono de descarga al lado del botón ingresar?
+
+Los campos del formulario de login debieran ser requeridos.
